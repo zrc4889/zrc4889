@@ -1,6 +1,6 @@
 ### Here is zrc4889 👋
 
-I'm zrc4889. My full name is Zhang_Ruchen. I am an OIer from Fuzhou, Fujian, China. My birthday is May 26, 2009.
+I'm zrc4889. An OIer from Fuzhou, Fujian, China. My birthday is May 26, 2009.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zrc4889&show_icons=true&icon_color=CE1D2D&text_color=71809&theme=default&hide_title=true" />
 
