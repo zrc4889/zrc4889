@@ -9,11 +9,11 @@ I'm zrc4889. An OIer from Fuzhou, Fujian, China. My birthday is May 26, 2009.
 - 🎯 Making my dream alive
 - ⚒️ C / C++ / Python
 - ✏️ Chinese junior high school student
-- 🌱 OIer, fighting for NOIp
+- 🌱 OIer, MOer
 - 💬 Ask me about: Anything
-- 📫 How to reach me: zrc4889@gmail.com
+- 📫 How to reach me: zrc4889@163.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Reading Books and Thinking Writting
 - 🔗 My Blog: [Blog](https://www.luogu.com.cn/blog/zrc4889/)
-- 👤 My Friends: [Splash](https://www.luogu.com.cn/user/617875) | [nullptr](https://github.com/weifanxiang)
+- 👤 My Friends: [lzq](https://www.luogu.com.cn/user/746650) | [nullptr](https://github.com/weifanxiang)
 - ❤️ Followers:  ![count](https://img.shields.io/badge/dynamic/json?color=%23DC143C&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzrc4889)
