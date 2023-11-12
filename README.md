@@ -9,7 +9,7 @@ I'm zrc4889. An OIer from Fuzhou, Fujian, China. My birthday is May 26, 2009.
 - 🎯 Making my dream alive
 - ⚒️ C / C++ / Python
 - ✏️ Chinese junior high school student
-- 🌱 OIer, MOer
+- 🌱 OIer
 - 💬 Ask me about: Anything
 - 📫 How to reach me: zrc4889@163.com
 - 😄 Pronouns: He/Him
